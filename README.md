@@ -1,2 +1,3 @@
 # test
-创建了dev分支，尝试合并操作
+train_lcs.txt文件是问题分解训练集
+test_no_lcs.txt是问题分解测试集
